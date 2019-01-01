@@ -1,0 +1,13 @@
+Metadata-Version: 1.1
+Name: docxhelper
+Version: 0.1
+Summary: Some additional helper functions for using docx
+Home-page: http://github.com/storborg/funniest
+Author: burninggo 
+Author-email: kojae1978@gmail.com
+License: MIT
+Description: UNKNOWN
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
