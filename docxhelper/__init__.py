@@ -1,6 +1,6 @@
 from .table import *
+from .font import *
 
 
-def joke():
-    print("successful install????")
+
 

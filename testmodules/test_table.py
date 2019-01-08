@@ -1,11 +1,9 @@
 import os
 import sys
+import docx
 
 ## Add the absolute path of the parent into PYTHONPATH
 from shutil import copyfile
-
-import docx
-
 sys.path.insert(0,os.path.abspath(os.path.join(os.path.dirname(__file__), '..')))
 
 import unittest
