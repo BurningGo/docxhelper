@@ -1,7 +1,13 @@
 from setuptools import setup
 
 setup(name='docxhelper',
+<<<<<<< HEAD
       version='0.12',
+||||||| merged common ancestors
+      version='0.1',
+=======
+      version='0.11',
+>>>>>>> 6881d59af7b2129750bcbd96b79c3bfae0208e17
       description='Some additional helper functions for using docx',
       url='http://github.com/storborg/funniest',
       author='burninggo ',

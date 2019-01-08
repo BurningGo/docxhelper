@@ -1,5 +1,7 @@
+README.md
 setup.py
 docxhelper/__init__.py
+docxhelper/font.py
 docxhelper/table.py
 docxhelper.egg-info/PKG-INFO
 docxhelper.egg-info/SOURCES.txt
@@ -7,4 +9,3 @@ docxhelper.egg-info/dependency_links.txt
 docxhelper.egg-info/not-zip-safe
 docxhelper.egg-info/requires.txt
 docxhelper.egg-info/top_level.txt
-test/test_table.py
